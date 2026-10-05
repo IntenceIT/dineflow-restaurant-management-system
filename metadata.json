@@ -1,0 +1,6 @@
+{
+  "name": "DineFlow",
+  "description": "Modern Restaurant Management System with role-based access control and dashboards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
